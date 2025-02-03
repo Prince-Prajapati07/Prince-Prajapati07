@@ -54,12 +54,6 @@
 | **Amazon Prime & Apple Music Clones** | Front-end clones with interactive UI. |  
 | **Smart City Solutions** | Software-powered urban waste & energy management systems. |  
 
-#### 🏆 **Awards & Recognitions:**  
-
-- 2nd Place at **Tech & Sustainability Event**.  
-- 3rd Place at **IUAC Competition**, praised by **DRDO Chief**.  
-- Recognized by **DIBER & CEC Directors** for AI & sustainability research.  
-
 ---
 
 ### 📫 Connect with Me  
