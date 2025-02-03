@@ -8,8 +8,7 @@
 
 - 🔥 **Software Engineer | AI Enthusiast | Innovator**  
 - 💡 Passionate about solving real-world problems with technology.  
-- 🏆 **Award-Winning Developer**  
-- 🌍 On a mission to create impactful digital solutions.  
+- 🏆 **Developer**  
 
 ---
 
@@ -18,7 +17,7 @@
 - 🎓 **CSE Student (2nd Year)** - Diving deep into software engineering & AI.  
 - 💻 **3+ Years of Front-End Development** - Crafting intuitive & sleek UIs.  
 - 🚀 **Introduced Algoverse** - Building future-ready software solutions.  
-- 🤖 **AI & ML Enthusiast** - Exploring deep learning & automation.  
+- 🤖 **AI Enthusiast** - Exploring deep learning & automation.  
 - 📚 **Currently Learning** - Full-Stack Web Development, Advanced AI.  
 
 ---
