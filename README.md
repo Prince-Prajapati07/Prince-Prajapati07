@@ -14,11 +14,11 @@
 
 ###  Who Am I?  
 
-- 🎓 **CSE Student (2nd Year)** - Diving deep into software engineering & AI.  
-- 💻 **3+ Years of Front-End Development** - Crafting intuitive & sleek UIs.  
-- 🚀 **Introduced Algoverse** - Building future-ready software solutions.  
-- 🤖 **AI Enthusiast** - Exploring deep learning & automation.  
-- 📚 **Currently Learning** - Full-Stack Web Development, Advanced AI.  
+-  **CSE Student (2nd Year)** - Diving deep into software engineering & AI.  
+-  **3+ Years of Front-End Development** - Crafting intuitive & sleek UIs.  
+-  **Introduced Algoverse** - Building future-ready software solutions.  
+-  **AI Enthusiast** - Exploring deep learning & automation.  
+-  **Currently Learning** - Full-Stack Web Development, Advanced AI.  
 
 ---
 
