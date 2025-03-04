@@ -4,15 +4,15 @@
 
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 
-- 🔥 **Software Engineer | AI Enthusiast | Innovator**  
-- 💡 Passionate about solving real-world problems with technology.  
-- 🏆 **Developer**  
+ **Software Engineer | AI Enthusiast | Innovator**  
+   Passionate about solving real-world problems with technology.  
+   **Developer**  
 
 ---
 
-### 📌 Who Am I?  
+###  Who Am I?  
 
 - 🎓 **CSE Student (2nd Year)** - Diving deep into software engineering & AI.  
 - 💻 **3+ Years of Front-End Development** - Crafting intuitive & sleek UIs.  
@@ -43,9 +43,9 @@
 
 ---
 
-### 🎯 Projects & Achievements  
+###  Projects & Achievements  
 
-#### 🏗️ **Innovative Solutions:**  
+####  **Innovative Solutions:**  
 
 | Project | Description |  
 |---------|------------|  
@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Connect with Me  
+###  Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/princeprajapati07/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Prince-Prajapati07)  
@@ -63,4 +63,4 @@
 
 ---
 
-💡 *Passionate about technology & innovation? Let's connect & collaborate!* 🚀
+ *Passionate about technology & innovation? Let's connect & collaborate!* 🚀
