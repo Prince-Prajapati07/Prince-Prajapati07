@@ -7,20 +7,21 @@
 ###  About Me  
 
  **Software Engineer | AI Enthusiast | Innovator**  
-   Passionate about solving real-world problems with technology.  
+   solving real-world problems with technology.  
    **Developer**  
 
 ---
 
-###  Who Am I?  
+| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Egg](https://img.shields.io/badge/-Egg.js-22ab28?style=flat) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
+| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker)                                                                                                                                                                    |
+| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                 |
+| ![Workflow](https://img.shields.io/badge/-Ohter-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)       |
 
--  **CSE Student (2nd Year)** - Diving deep into software engineering & AI.  
--  **3+ Years of Front-End Development** - Crafting intuitive & sleek UIs.  
--  **Introduced Algoverse** - Building future-ready software solutions.  
--  **AI Enthusiast** - Exploring deep learning & automation.  
--  **Currently Learning** - Full-Stack Web Development, Advanced AI.  
+### ❤️ GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prince-Prajapati07&theme=aura_dark)</img> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Prajapati07&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Prajapati07&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></a></p>
 
----
 
 ### 🛠️ Tech Stack & Tools  
 
