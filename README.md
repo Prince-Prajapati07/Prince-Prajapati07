@@ -1,4 +1,15 @@
-## 🚀 Welcome to My GitHub Universe!  
+<div align="center">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat2044/Bharat2044/main/assets/header.png" alt="Banner Image" width="100%"/>
+</p>
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Welcome+to+My+GitHub+Universe!" alt="Typing SVG" />
+</h1>
+<p align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
+</p>
+</div>
 
 ### I turn ideas into reality with code.  
 
