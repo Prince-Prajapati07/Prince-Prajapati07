@@ -13,6 +13,8 @@
 
 ### I turn ideas into reality with code.  
 
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVuNmFyY3Q2YXdpMGNxMTNjdzlwOTVwaWUyOTJ0eDE3Y3l2c2lwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+
 ---
 
 ###  About Me  
